@@ -12,6 +12,7 @@ This repository contains Machine Learning and Deep Learning projects built using
 - Pandas  
 - NumPy  
 - Matplotlib  
+- OpenCV  
 
 ---
 
@@ -29,6 +30,11 @@ This repository contains Machine Learning and Deep Learning projects built using
 - Trained and evaluated multiple ML algorithms  
 - Assessed model performance using accuracy and confusion matrix  
 
+### 3️⃣ Face Recognition System (OpenCV)
+- Implemented a face detection and recognition system using OpenCV  
+- Applied computer vision techniques for facial feature extraction  
+- Built a basic recognition pipeline for identity verification  
+
 ---
 
 ## 📊 Workflow
@@ -43,7 +49,7 @@ This repository contains Machine Learning and Deep Learning projects built using
 
 ## 🎯 Objective
 
-To develop practical expertise in Machine Learning and Deep Learning by implementing end-to-end predictive modeling workflows.
+To develop practical expertise in Machine Learning, Deep Learning, and Computer Vision by implementing end-to-end predictive modeling workflows.
 
 ---
 
