@@ -1,66 +1,49 @@
 # Machine Learning & Deep Learning Projects
 
-This repository contains my Machine Learning and Deep Learning projects built using TensorFlow and Python. The projects focus on building, training, and evaluating models for real-world data problems.
+This repository contains Machine Learning and Deep Learning projects built using Python and TensorFlow. The focus is on building, training, and evaluating models to solve real-world problems.
 
 ---
 
 ## 🚀 Technologies Used
 
-- Python
-- TensorFlow / Keras
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
+- Python  
+- TensorFlow / Keras  
+- Scikit-learn  
+- Pandas  
+- NumPy  
+- Matplotlib  
 
 ---
 
 ## 📂 Projects Included
 
 ### 1️⃣ Hair Type Classification (CNN)
-- Built a Convolutional Neural Network (CNN) for image classification
-- Preprocessed image datasets
-- Trained and evaluated deep learning model
-- Visualized training performance using Matplotlib
+- Developed a Convolutional Neural Network (CNN) for image classification  
+- Performed image preprocessing and normalization  
+- Evaluated model performance using accuracy and loss metrics  
+- Visualized training results using Matplotlib  
 
-### 2️⃣ (Add your second project here)
-- Short description
-- Model used
-- Results achieved
-
----
-
-## 📊 Model Workflow
-
-- Data preprocessing and cleaning
-- Model architecture design
-- Training and validation
-- Performance evaluation
-- Visualization of loss and accuracy curves
+### 2️⃣ Student Mental Health Prediction
+- Built a classification model to predict whether students are likely to seek professional mental health support  
+- Performed data preprocessing and exploratory data analysis  
+- Trained and evaluated multiple ML algorithms  
+- Assessed model performance using accuracy and confusion matrix  
 
 ---
 
-## 📈 Visualization
+## 📊 Workflow
 
-Matplotlib is used to:
-- Plot training & validation accuracy
-- Plot loss curves
-- Analyze model performance
+- Data preprocessing  
+- Feature engineering  
+- Model training and validation  
+- Performance evaluation  
+- Result visualization  
 
 ---
 
 ## 🎯 Objective
 
-To strengthen practical understanding of Machine Learning and Deep Learning by implementing models from scratch and analyzing performance metrics.
-
----
-
-## 🧠 Future Improvements
-
-- Hyperparameter tuning
-- Model optimization
-- Deployment using Flask/Django
-- Model versioning
+To develop practical expertise in Machine Learning and Deep Learning by implementing end-to-end predictive modeling workflows.
 
 ---
 
@@ -68,4 +51,3 @@ To strengthen practical understanding of Machine Learning and Deep Learning by i
 
 Aravind Somanath  
 Python Developer | Machine Learning Enthusiast
-
